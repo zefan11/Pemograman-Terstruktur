@@ -1,2 +1,3 @@
 # Pemograman-Terstruktur
-Zefanya Andin Novrean (K3521070)
+NIM   : K3521070
+Nama  : Zefanya Andin Novrean
